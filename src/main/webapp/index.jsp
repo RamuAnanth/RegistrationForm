@@ -14,7 +14,7 @@
 		</tr>
 		<tr>
 			<td>Password:</td>
-			<td><input type="text" name="pswd"/></td>
+			<td><input type="password" name="pswd"/></td>
 		</tr>
 	</table>
 	<input type="submit"/>
